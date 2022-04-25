@@ -1,1 +1,0 @@
-# gan-shin.github.io
