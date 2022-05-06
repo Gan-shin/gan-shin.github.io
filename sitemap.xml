@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gan-shin.github.io/%E5%93%80%E9%85%B1/Love-you-at-105-degrees/</loc>
+    
+    <lastmod>2022-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gan-shin.github.io/friends/index.html</loc>
     
     <lastmod>2022-04-25</lastmod>
@@ -62,10 +71,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://gan-shin.github.io/tags/%E5%93%80%E9%85%B1/</loc>
+    <lastmod>2022-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://gan-shin.github.io/categories/Hexo/</loc>
+    <lastmod>2022-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://gan-shin.github.io/categories/%E5%93%80%E9%85%B1/</loc>
     <lastmod>2022-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

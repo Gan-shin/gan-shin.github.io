@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Love you at 105 degrees</title>
+    <url>/%E5%93%80%E9%85%B1/Love-you-at-105-degrees/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>热爱105 °C的灰原哀~~</p>
+<span id="more"></span>
+
+<p>Super爱豆的笑容都没你的甜！</p>
+<div style="position: relative; padding: 30% 45%;">
+    <iframe style="
+        position: absolute; 
+        width: 100%; 
+        height: 100%; 
+        left: 0; top: 0;" 
+        src="player.bilibili.com/player.html?bvid=BV1E5411T75m&cid=355250712&page=1" 
+        scrolling="no" 
+        border="0" 
+        frameborder="no" 
+        framespacing="0" 
+        allowfullscreen="true">
+    </iframe>
+</div>
+]]></content>
+      <categories>
+        <category>哀酱</category>
+      </categories>
+      <tags>
+        <tag>哀酱</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo 基本操作</title>
     <url>/Hexo/Hexo-Basic/</url>
-    <content><![CDATA[<p>The first try for Hexo.</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>The first try for Hexo.</p>
 <span id="more"></span>
 
 <h2 id="Hexo的安装"><a href="#Hexo的安装" class="headerlink" title="Hexo的安装"></a>Hexo的安装</h2><p>安装 Node.js 。</p>
